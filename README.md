@@ -13,3 +13,4 @@ The SimpleWeatherApp.java file provides a simple driver program that retreives w
 - **Maven** - dependency management
 - **Jersey** - RESTful web service development tool
 - **Jackson** - JSON processor for java
+- **Mockito** - unit test mocking framework
